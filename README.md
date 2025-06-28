@@ -12,7 +12,7 @@ Weeks 5-8: Machine learning fundamentals and hands-on projects.
 
 Weeks 9-12: SQL, data visualization (Excel, Power BI), and exploratory data analysis.
 
-Weeks 13-16: Advanced topics like deep learning, and automating EDA.
+Weeks 13: Advanced topics like deep learning, and automating EDA.
 
 Let’s Connect!
 
